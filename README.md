@@ -18,7 +18,7 @@
 
 This project aims to develop your practical skills in securing a WordPress installation by setting up firewalls and Access Control Lists (ACLs). You'll learn how to enhance the overall security posture of a WordPress site against potential threats using both user-friendly and advanced tools.
 
-<onlyfor saas="true" withBanner="true">
+<onlyfor saas="true" withBanner="false">
 
 ## 🌱 How to start a project?
 
