@@ -7,7 +7,7 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/blob/main/README.es.md) :es:*
+*Estas instrucciones [están disponibles en español](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/blob/main/README.es.md) :es:*
 
 ### Before you start...
 
