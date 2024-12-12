@@ -7,19 +7,18 @@
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/blob/main/README.es.md) :es:*
+*Estas instrucciones [están disponibles en español](https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/blob/main/README.es.md) :es:*
+
+### Before you start...
+
+> We need you! These exercises are built and maintained in collaboration with contributors like yourself. If you find any bugs or misspellings, please contribute and/or report them.
 <!-- endhide -->
 
 ## 📝 Instructions
 
 This project aims to develop your practical skills in securing a WordPress installation by setting up firewalls and Access Control Lists (ACLs). You'll learn how to enhance the overall security posture of a WordPress site against potential threats using both user-friendly and advanced tools.
 
-
-<!-- hide -->
-### Before you start...
-
-> We need you! These exercises are built and maintained in collaboration with contributors like yourself. If you find any bugs or misspellings, please contribute and/or report them.
-<!-- endhide -->
+<onlyfor saas="false" withBanner="false">
 
 ## 🌱 How to start a project?
 
@@ -36,6 +35,7 @@ $ npm i @learnpack/learnpack -g
 ```bash
 $ learnpack start
 ```
+</onlyfor>
 
 <!-- hide -->
 ## Contributors

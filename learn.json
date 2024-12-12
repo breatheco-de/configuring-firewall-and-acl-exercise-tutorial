@@ -3,6 +3,9 @@
   "technologies": ["cybersecurity", "wordpress", "access control list", "ciberseguridad", "lista de control de acceso"],
   "difficulty": "easy",
   "duration": 1,
+  "template_url": "self"
+  "projectType": "tutorial"
+  "autoPlay": "true"
   "preview": "https://github.com/breatheco-de/configuring-firewall-and-acl-exercise-tutorial/blob/main/.learn/assets/preview.png?raw=true",
   "description": {
     "us": "develop practical skills in securing a wordpress installation through the setup of firewalls and ACLs",
